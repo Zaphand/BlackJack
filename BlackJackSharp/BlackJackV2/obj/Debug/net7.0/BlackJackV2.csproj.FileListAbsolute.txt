@@ -1,0 +1,15 @@
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\bin\Debug\net7.0\BlackJackV2.exe
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\bin\Debug\net7.0\BlackJackV2.deps.json
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\bin\Debug\net7.0\BlackJackV2.runtimeconfig.json
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\bin\Debug\net7.0\BlackJackV2.dll
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\bin\Debug\net7.0\BlackJackV2.pdb
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\obj\Debug\net7.0\BlackJackV2.csproj.AssemblyReference.cache
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\obj\Debug\net7.0\BlackJackV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\obj\Debug\net7.0\BlackJackV2.AssemblyInfoInputs.cache
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\obj\Debug\net7.0\BlackJackV2.AssemblyInfo.cs
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\obj\Debug\net7.0\BlackJackV2.csproj.CoreCompileInputs.cache
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\obj\Debug\net7.0\BlackJackV2.dll
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\obj\Debug\net7.0\refint\BlackJackV2.dll
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\obj\Debug\net7.0\BlackJackV2.pdb
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\obj\Debug\net7.0\BlackJackV2.genruntimeconfig.cache
+C:\Workspace-Own\prosjekter\BlackJack-master\csharp\BlackJackV2\obj\Debug\net7.0\ref\BlackJackV2.dll
